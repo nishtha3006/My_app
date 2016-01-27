@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.nishtha.portfolio_app.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Nanodegree Apps!"
+            android:textSize="30dp"
+            android:textColor="#000066"
+            android:layout_marginTop="75dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="SPOTIFY STREAMER"
+            android:id="@+id/first"
+            android:layout_marginTop="140dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="#999999"
+
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="SCORES APP"
+            android:id="@+id/second"
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"
+            android:layout_below="@+id/first"
+            android:layout_marginTop="10dp"
+            android:layout_alignLeft="@+id/first"
+            android:layout_alignStart="@+id/first"
+            android:background="#999999"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="LIBRARY APP"
+            android:id="@+id/third"
+            android:layout_below="@+id/second"
+            android:layout_marginTop="10dp"
+            android:layout_alignLeft="@+id/second"
+            android:layout_alignStart="@+id/second"
+            android:background="#999999"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="BUILD IT BIGGER"
+            android:id="@+id/four"
+            android:layout_below="@+id/third"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="#999999"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="XYZ READER"
+            android:id="@+id/five"
+            android:layout_below="@+id/four"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="#999999"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="CAPSTONE: MY OWN APP"
+            android:id="@+id/six"
+            android:layout_below="@+id/five"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="#00004c"
+            android:textColor="#ffffff"
+            />
+    </RelativeLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_dialog_email" />
+
+</android.support.design.widget.CoordinatorLayout>
