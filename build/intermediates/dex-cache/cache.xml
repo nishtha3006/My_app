@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_f4831ac5b91c928f2b46d7eae07db6e0cd978d89.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_919de46f728d9f3cb9ee9d81777904037c7e94cf.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d38a5ab0c3cb6c3daa07c3c4769ae6b1047d170d.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_b94ea963a0ccab8eb2db3f73caa830b41d22640c.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_c83cfb63e0392b0b76be308af09823a80eee572b.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/nishtha/AndroidStudioProjects/Portfolio_app/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_31eaaaa0819ef2e337564c249d22f76234b7e418.jar" />
+    </item>
+
+</items>
